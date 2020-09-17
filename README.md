@@ -9,4 +9,5 @@ Language model: for creating output as embeddings to reduce complexity of model.
 
 Final model: which will concatenate results of both this model and will use LSTM layer and Time Distributed layer for doing final_predicttions.
 ## One of example of final prediction:
+https://github.com/2000aman/PROJECT_IMAGE_CAPTIONING/blob/master/IMAGE_CAPTION_PROJECT.ipynb
 two people are walking in the snow in front of building with mountains in the background in the background is throwing bucket of ice covered cars showing them on the ground with their arms
